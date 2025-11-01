@@ -1,11 +1,3 @@
-"""
-Exact replication of paper methodology:
-"A transfer learning-based CNN and LSTM hybrid deep learning model to classify motor imagery EEG signals"
-(Khademi et al., 2022)
-
-Main execution script that ties all modules together.
-"""
-
 import os
 import json
 import numpy as np
